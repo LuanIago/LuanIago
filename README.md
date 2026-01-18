@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [English](README.en.md)
+
 # 👋 Olá, eu sou o Luan!
 
 Sou apaixonado por tecnologia e encontrei na programação uma forma de transformar ideias em soluções reais. Tenho foco em aprendizado contínuo e em aplicar a teoria na prática por meio de exercícios e projetos.
