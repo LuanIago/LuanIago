@@ -54,3 +54,4 @@ Projetos maiores e mais completos, desenvolvidos com foco em organização, boas
 ## 🔗 Contato
 
 - LinkedIn: https://www.linkedin.com/in/luanmarquesdev/
+- E-mail: luaniagoaguiarmarques@gmail.com
