@@ -8,6 +8,55 @@ Atualmente, estou me aprofundando em **PHP**, desenvolvendo pequenos projetos, t
 
 ---
 
+## 🛠️ Tecnologias
+
+### 📚 Atualmente estudando
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>
+      <strong>PHP</strong>
+    </td>
+  </tr>
+</table>
+
+### ✅ Conhecimentos adquiridos
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>
+      <strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br>
+      <strong>GitHub</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Objetivos
+
+- Construir uma carreira como **Full-Stack Developer**, com foco em **Back-End**
+- Me especializar em **PHP** e **Java**
+- Participar de projetos relevantes, entregando código limpo e funcional
+- Evoluir constantemente como desenvolvedor por meio da prática
+
+---
+
 ## 📂 Organização dos Projetos
 
 Organizo meus estudos e projetos em **três níveis**, de acordo com a complexidade e o escopo de cada um:
@@ -30,24 +79,6 @@ Projetos pequenos e funcionais que integram múltiplos conceitos de programaçã
 Projetos maiores e mais completos, desenvolvidos com foco em organização, boas práticas e evolução técnica.
 
 🚧 Em desenvolvimento.
-
----
-
-## 🛠️ Tecnologias em estudo
-
-- PHP  
-- JavaScript  
-- HTML & CSS  
-- Git & GitHub  
-
----
-
-## 🎯 Objetivos
-
-- Construir uma carreira como **Full-Stack Developer**, com foco em **Back-End**
-- Me especializar em **PHP** e **Java**
-- Participar de projetos relevantes, entregando código limpo e funcional
-- Evoluir constantemente como desenvolvedor por meio da prática
 
 ---
 
