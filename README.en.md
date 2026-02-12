@@ -4,7 +4,7 @@
 
 I am passionate about technology and found in programming a way to turn ideas into real solutions. I focus on continuous learning and on applying theory in practice through exercises and projects.
 
-Currently, I am deepening my knowledge in **PHP**, developing small projects, practicing programming logic daily, and improving code best practices. I am also preparing to move forward with **React** and **Java**, technologies that interest me for their robustness and potential in modern application development.
+Currently, I am deepening my knowledge in **Python**, developing small projects, practicing programming logic daily, and improving code best practices. I am also preparing to move forward with **Java**, technology that interests me because of its robustness and potential in modern application development.
 
 ---
 
@@ -14,8 +14,8 @@ Currently, I am deepening my knowledge in **PHP**, developing small projects, pr
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>
-      <strong>PHP</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>
+      <strong>Python</strong>
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ Currently, I am deepening my knowledge in **PHP**, developing small projects, pr
 ## 🎯 Goals
 
 - Build a career as a **Full-Stack Developer**, with a focus on **Back-End**
-- Specialize in **PHP** and **Java**
+- Specialize in **Python** and **Java**
 - Contribute to relevant projects by delivering clean and functional code
 - Continuously evolve as a developer through hands-on practice
 
