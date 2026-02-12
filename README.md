@@ -4,7 +4,7 @@
 
 Sou apaixonado por tecnologia e encontrei na programação uma forma de transformar ideias em soluções reais. Tenho foco em aprendizado contínuo e em aplicar a teoria na prática por meio de exercícios e projetos.
 
-Atualmente, estou me aprofundando em **PHP**, desenvolvendo pequenos projetos, treinando lógica de programação diariamente e aprimorando boas práticas de código. Também estou me preparando para avançar em **React** e **Java**, tecnologias que me interessam pela robustez e pelo potencial no desenvolvimento de aplicações modernas.
+Atualmente, estou me aprofundando em **Python**, desenvolvendo pequenos projetos, treinando lógica de programação diariamente e aprimorando boas práticas de código. Também estou me preparando para avançar em **Java**, tecnologia que me interessa pela robustez e pelo potencial no desenvolvimento de aplicações modernas.
 
 ---
 
@@ -14,8 +14,8 @@ Atualmente, estou me aprofundando em **PHP**, desenvolvendo pequenos projetos, t
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>
-      <strong>PHP</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>
+      <strong>Python</strong>
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando em **PHP**, desenvolvendo pequenos projetos, t
 ## 🎯 Objetivos
 
 - Construir uma carreira como **Full-Stack Developer**, com foco em **Back-End**
-- Me especializar em **PHP** e **Java**
+- Me especializar em **Python** e **Java**
 - Participar de projetos relevantes, entregando código limpo e funcional
 - Evoluir constantemente como desenvolvedor por meio da prática
 
