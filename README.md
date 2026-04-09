@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou o Luan!
 
-Sou apaixonado por tecnologia e encontrei na programação uma forma de transformar ideias em soluções reais. Tenho foco em aprendizado contínuo e em aplicar a teoria na prática por meio de exercícios e projetos.
+Sou estudante de Engenharia de Software e tenho interesse em tecnologia, principalmente em entender como os sistemas funcionam por trás. Gosto da lógica da programação e do processo de transformar problemas em soluções estruturadas.
 
-Atualmente, estou me aprofundando em **Python**, desenvolvendo pequenos projetos, treinando lógica de programação diariamente e aprimorando boas práticas de código. Também estou me preparando para avançar em **Java**, tecnologia que me interessa pela robustez e pelo potencial no desenvolvimento de aplicações modernas.
+Busco evoluir como desenvolvedor com foco em Back-End, utilizando atualmente a linguagem Python. Tenho maior interesse nessa área por envolver mais lógica, estrutura e resolução de problemas, além de exigir um entendimento mais profundo de como os sistemas funcionam.
 
 ---
 
@@ -51,7 +51,6 @@ Atualmente, estou me aprofundando em **Python**, desenvolvendo pequenos projetos
 ## 🎯 Objetivos
 
 - Construir uma carreira como **Full-Stack Developer**, com foco em **Back-End**
-- Me especializar em **Python** e **Java**
 - Participar de projetos relevantes, entregando código limpo e funcional
 - Evoluir constantemente como desenvolvedor por meio da prática
 
