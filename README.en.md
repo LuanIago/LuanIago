@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Luan!
 
-I am passionate about technology and found in programming a way to turn ideas into real solutions. I focus on continuous learning and on applying theory in practice through exercises and projects.
+I am a Software Engineering student with an interest in technology, especially in understanding how systems work behind the scenes. I enjoy the logic of programming and the process of turning problems into structured solutions.
 
-Currently, I am deepening my knowledge in **Python**, developing small projects, practicing programming logic daily, and improving code best practices. I am also preparing to move forward with **Java**, technology that interests me because of its robustness and potential in modern application development.
+I aim to grow as a developer with a focus on Back-End, currently using Python. I’m particularly interested in this area because it involves more logic, structure, and problem-solving, as well as requiring a deeper understanding of how systems work.
 
 ---
 
@@ -51,7 +51,6 @@ Currently, I am deepening my knowledge in **Python**, developing small projects,
 ## 🎯 Goals
 
 - Build a career as a **Full-Stack Developer**, with a focus on **Back-End**
-- Specialize in **Python** and **Java**
 - Contribute to relevant projects by delivering clean and functional code
 - Continuously evolve as a developer through hands-on practice
 
