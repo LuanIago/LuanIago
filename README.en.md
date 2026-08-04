@@ -1,4 +1,4 @@
-🇧🇷 Português | 🇺🇸 [English](README.en.md)
+🇧🇷 Português | 🇺🇸 [English](README.md)
 
 # 👋 Olá, eu sou o Luan!
 
