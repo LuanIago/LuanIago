@@ -13,18 +13,33 @@ My goal is to pursue a career as a software developer, with a focus on Back-End 
 ## 🛠️ Technologies
 
 ### 📚 Currently Studying
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>
-      <strong>Python</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br>
+      <strong>Java</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br>
+      <strong>C#</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>
+      <strong>PostgreSQL</strong>
     </td>
   </tr>
 </table>
 
 ### ✅ Acquired Skills
+
 <table align="center">
+
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>
+      <strong>Python</strong>
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>
       <strong>HTML5</strong>
@@ -63,6 +78,7 @@ My goal is to pursue a career as a software developer, with a focus on Back-End 
 I organize my studies and projects into **three levels**, according to the complexity and scope of each one:
 
 ### 🟢 Exercises
+
 Practical exercises focused on programming logic and specific concepts learned in courses and college.
 
 🔗 [View exercises list](https://github.com/stars/LuanIago/lists/exercises)
@@ -70,6 +86,7 @@ Practical exercises focused on programming logic and specific concepts learned i
 ---
 
 ### 🟡 Mini Projects
+
 Small, functional projects that integrate multiple programming concepts and demonstrate the practical application of learning.
 
 🔗 [View mini projects](https://github.com/stars/LuanIago/lists/mini-projects)
@@ -77,6 +94,7 @@ Small, functional projects that integrate multiple programming concepts and demo
 ---
 
 ### 🔵 Main Projects
+
 Larger and more complete projects, developed with a focus on organization, best practices, and technical growth.
 
 🚧 Under development.
