@@ -4,9 +4,9 @@
 
 I am a Software Engineering student with a strong interest in technology and a natural curiosity about understanding how things really work.
 
-Currently, I am focused on Python, developing small projects and regularly practicing programming logic. I strive to study in an organized way, applying in practice what I learn in class to reinforce my understanding. I have been dedicating significant attention to programming fundamentals, such as logic, object-oriented programming, and best practices with Git and GitHub, because I believe that a strong foundation makes a difference in the long term.
+Currently, I am focused on Java and Python, developing small projects and regularly practicing programming logic. I strive to study in an organized way, applying in practice what I learn in class to reinforce my understanding. I have been dedicating significant attention to programming fundamentals, such as logic, object-oriented programming, and best practices with Git and GitHub, because I believe that a strong foundation makes a difference in the long term.
 
-My goal is to pursue a career as a software developer, with a focus on Back-End development, currently working with Python. I am particularly drawn to this area because it involves logic, structure, and problem-solving, while also requiring a deeper understanding of how systems work behind the scenes. I want to contribute to projects that challenge me technically and help me grow consistently as a developer.
+My goal is to pursue a career as a software developer, with a focus on Back-End development, currently working with Java and Python. I am particularly drawn to this area because it involves logic, structure, and problem-solving, while also requiring a deeper understanding of how systems work behind the scenes. I want to contribute to projects that challenge me technically and help me grow consistently as a developer.
 
 ---
 
