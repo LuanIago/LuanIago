@@ -1,18 +1,18 @@
-🇺🇸 English | 🇧🇷 [Português](README.md)
+🇧🇷 Português | 🇺🇸 [English](README.en.md)
 
-# 👋 Hi, I'm Luan!
+# 👋 Olá, eu sou o Luan!
 
-I am a Software Engineering student with a strong interest in technology and a natural curiosity about understanding how things really work.
+Sou estudante de Engenharia de Software interessado por tecnologia e curioso em entender como as coisas realmente funcionam.
 
-Currently, I am focused on Java and Python, developing small projects and regularly practicing programming logic. I strive to study in an organized way, applying in practice what I learn in class to reinforce my understanding. I have been dedicating significant attention to programming fundamentals, such as logic, object-oriented programming, and best practices with Git and GitHub, because I believe that a strong foundation makes a difference in the long term.
+Atualmente, estou focado em Java e Python, desenvolvendo pequenos projetos e treinando lógica de programação com frequência. Procuro estudar com organização, aplicando na prática o que aprendo em aula para fixar melhor os conceitos. Tenho dado bastante atenção aos fundamentos da programação, como lógica, orientação a objetos e boas práticas com Git/GitHub, porque acredito que uma base sólida faz diferença no longo prazo.
 
-My goal is to pursue a career as a software developer, with a focus on Back-End development, currently working with Java and Python. I am particularly drawn to this area because it involves logic, structure, and problem-solving, while also requiring a deeper understanding of how systems work behind the scenes. I want to contribute to projects that challenge me technically and help me grow consistently as a developer.
+Meu objetivo é seguir como desenvolvedor, com foco em Back-End, trabalhando atualmente com Java e Python. Me identifico com essa área por envolver mais lógica, estrutura e resolução de problemas, além de exigir um entendimento mais profundo de como os sistemas funcionam. Quero participar de projetos que me desafiem tecnicamente e me ajudem a evoluir de forma consistente.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
-### 📚 Currently Studying
+### 📚 Atualmente estudando
 
 <table align="center">
   <tr>
@@ -31,7 +31,7 @@ My goal is to pursue a career as a software developer, with a focus on Back-End 
   </tr>
 </table>
 
-### ✅ Acquired Skills
+### ✅ Conhecimentos adquiridos
 
 <table align="center">
 
@@ -65,43 +65,43 @@ My goal is to pursue a career as a software developer, with a focus on Back-End 
 
 ---
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-- Build a career as a **Full-Stack Developer**, with a focus on **Back-End**
-- Contribute to relevant projects by delivering clean and functional code
-- Continuously evolve as a developer through hands-on practice
+- Construir uma carreira como **Full-Stack Developer**, com foco em **Back-End**
+- Participar de projetos relevantes, entregando código limpo e funcional
+- Evoluir constantemente como desenvolvedor por meio da prática
 
 ---
 
-## 📂 Project Organization
+## 📂 Organização dos Projetos
 
-I organize my studies and projects into **three levels**, according to the complexity and scope of each one:
+Organizo meus estudos e projetos em **três níveis**, de acordo com a complexidade e o escopo de cada um:
 
 ### 🟢 Exercises
 
-Practical exercises focused on programming logic and specific concepts learned in courses and college.
+Exercícios práticos focados em lógica de programação e conceitos específicos aprendidos em cursos e na faculdade.
 
-🔗 [View exercises list](https://github.com/stars/LuanIago/lists/exercises)
+🔗 [Ver lista de exercícios](https://github.com/stars/LuanIago/lists/exercises)
 
 ---
 
 ### 🟡 Mini Projects
 
-Small, functional projects that integrate multiple programming concepts and demonstrate the practical application of learning.
+Projetos pequenos e funcionais que integram múltiplos conceitos de programação e demonstram aplicação prática do aprendizado.
 
-🔗 [View mini projects](https://github.com/stars/LuanIago/lists/mini-projects)
+🔗 [Ver mini-projetos](https://github.com/stars/LuanIago/lists/mini-projects)
 
 ---
 
 ### 🔵 Main Projects
 
-Larger and more complete projects, developed with a focus on organization, best practices, and technical growth.
+Projetos maiores e mais completos, desenvolvidos com foco em organização, boas práticas e evolução técnica.
 
-🚧 Under development.
+🚧 Em desenvolvimento.
 
 ---
 
-## 🔗 Contact
+## 🔗 Contato
 
 - LinkedIn: https://www.linkedin.com/in/luanmarquesdev/
 - E-mail: luaniagoaguiarmarques@gmail.com
